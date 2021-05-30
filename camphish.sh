@@ -1,7 +1,9 @@
 #!/bin/bash
 # CamPhish v2.0
 # Powered by Neoprogrammers
-# Credits goes to thelinuxchoice [github.com/cham2003/]
+# Credits goes to thelinuxchoice [github.com/PYMaster-ft
+/
+/]
 
 trap 'printf "\n";stop' 2
 
