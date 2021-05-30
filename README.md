@@ -32,7 +32,9 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/cham2003/CamPhish.git
+git clone https://github.com/PYMaster-ft
+/
+/CamPhish.git
 cd CamPhish
 bash camphish.sh
 ```
@@ -40,7 +42,11 @@ bash camphish.sh
 [![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](#)
 #### For More Video subcribe <a href="http://youtube.com/programmertech">programmer tech YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamPhish is inspired by https://github.com/cham2003e/ Big thanks to @tcham2003</p>
+<p>CamPhish is inspired by https://github.com/PYMaster-ft
+/
+/ Big thanks to @PYMaster-ft
+/
+</p>
 
 ### CamPhish Creat  By Neo programmers
 <p>Chamindu pushpika,Isuru Heshan,Achintha sandaruwan,Supun,Mindara & Sahan <p>
